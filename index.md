@@ -1,14 +1,14 @@
-# 2022 Computer Science Conference for CSU Undergraduates
+# Second Annual Computer Science Conference for CSU Undergraduates
 # March 5, 2022
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
-The CSCSU conference will be held in two locations: California State University, Monterey Bay and California State University Northridge on **March 5th, 2022**, submission deadline is **January 17th**.
+CSCSU 2022 will be held in two locations: California State University, Monterey Bay and California State University Northridge on **March 5th, 2022**, submission deadline is **January 17th**.
 
 <img src="csumb.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="csun.png" width="200"/>
 
 ## Call for Papers ##
-CSCSU welcomes submissions in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
+Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
 
 * Traditional technical papers
 * Extensive experimentation with existing tools and techniques
