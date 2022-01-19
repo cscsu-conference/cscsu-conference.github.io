@@ -1,11 +1,10 @@
 # Second Annual Computer Science Conference for CSU Undergraduates
-# ~~March 5, 2022~~ The conference date has been moved to March 12, 2022
+# ~~March 5, 2022~~ 
+# March 12, 2022
+
+**UPDATE: The conference will be held virtually on March 12, 2022. See below for revised conference dates.**
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
-
-CSCSU 2022 will be held in two locations: California State University, Monterey Bay and California State University Northridge on **March 5th, 2022**, submission deadline is **January 17th**.
-
-**UPDATE: The conference meeting may be moved to virtual based on recommendations on COVID-19 from the state and the CSU Chancellor's Office. We will update conference participants approximately one month before the conference date.**
 
 <img src="csumb.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="csun.png" width="200"/>
 
@@ -29,10 +28,10 @@ For an accepted paper to be included in the proceedings, one of the student auth
 
 ## Important Dates ##
 
-* Submission Deadline: January 17, 2022
-* Notification Date: February 13, 2022
-* Camera-ready paper: February 26, 2022
-* Conference Dates: March 5, 2022
+* Submission Deadline: ~~January 17, 2022~~ January 24, 2022
+* Notification Date: ~~February 13, 2022~~ February 20, 2022
+* Camera-ready paper: ~~February 26, 2022~~ March 5, 2022
+* Conference Dates: ~~March 5, 2022~~ March 12, 2022
 
 ## Submission Guidlines
 Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found at the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
