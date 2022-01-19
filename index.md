@@ -6,8 +6,6 @@
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
-<img src="csumb.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="csun.png" width="200"/>
-
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
 
