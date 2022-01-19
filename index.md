@@ -28,10 +28,10 @@ For an accepted paper to be included in the proceedings, one of the student auth
 
 ## Important Dates ##
 
-* Submission Deadline: ~~January 17, 2022~~ January 24, 2022
-* Notification Date: ~~February 13, 2022~~ February 20, 2022
-* Camera-ready paper: ~~February 26, 2022~~ March 5, 2022
-* Conference Dates: ~~March 5, 2022~~ March 12, 2022
+* Submission Deadline: ~~January 17, 2022~~   **January 24, 2022
+* Notification Date: ~~February 13, 2022~~    **February 20, 2022
+* Camera-ready paper: ~~February 26, 2022~~   **March 5, 2022
+* Conference Dates: ~~March 5, 2022~~         **March 12, 2022
 
 ## Submission Guidlines
 Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found at the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
