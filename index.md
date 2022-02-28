@@ -9,9 +9,9 @@ CSCSU is an annual conference dedicated to computer science research by undergra
 ## Conference Program ##
 Date: Saturday March 12, 2022
 
-1:00 registration 
+**1:00 Registration** 
 
-1:10 opening remarks
+**1:10 Opening Remarks**
 
 **1:20 Session 1**  (Systems)
 
@@ -20,21 +20,21 @@ Date: Saturday March 12, 2022
 * *Tamentai An Abstract Strategic Board Game in Fully Immersive Virtual Reality*, Joseph Bocanegra and Hubert Cecotti.
 * *Evaluation of a Tree-based Menu Virtual Keyboard in Fully immersive Virtual Reality*, Narendra Mannan, Nathaniel Bean, Eric Smrkovsky, Jorge Ochoa and Hubert Cecotti.
 
-(10 min. break)
+**(10 min. break)**
 
 **2:50 Session 2**  (Theory/Security)
 * *Revisiting the Courteous Theatergoers’ Problem with Applications to Pandemic Seating*, Anurag Kuppala, Vedant Mehta and Theresa Migler.
 * *A Literature Survey of Phishing and Its Countermeasures*, Joshua Vega, Daniel Shevchyk and Yuan Cheng. 
 * *Suffix Tree: An Advanced Data Structure with Applications to Sequence Analysis*, Richmond Jesus Laureta and Sahar Hooshmand.
 
-(10 min. break)
+**(10 min. break)**
 
 **4:00 Session 3**  (Machine Learning)
 * *Utilizing Deep Learning for Mapping Dozer Lines from Aerial Imagery*, Jonathan Calderon Chavez, Matthew Clark and Gurman Gill.
 * *Reducing Redundancy for Binary Non-negative Bases with a Light-weight Multi-level Model*, Giovanni Lopez and Qingquan Sun.
 * *BerryBuddy: A Neural Network Based Berry Image Recognition Application*, David Alvarado Amaya, Jaspreet Nijjar, Jeffin Abraham, Sunshine Moua, Walter Jordan and Ayat Hatem.
 
-5:00 closing remarks and survey
+**5:00 Closing Remarks and Survey**
 
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
