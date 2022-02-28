@@ -6,6 +6,33 @@
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
+## Conference Program ##
+Date: Saturday March 12, 2022
+1:00 registration 
+1:10 opening remarks
+**1:20 session 1**  (Systems)
+
+* A Brain-Computer Interface for Musical Accompaniment
+* Exploring Parallel Anytime Designs for Image Retrieval using Oriented FAST Rotated BRIEF (ORB)
+* Tamentai An abstract strategic board game in fully immersive virtual reality
+* Evaluation of a Tree-based menu virtual keyboard in fully immersive virtual reality
+
+(10 min. break)
+
+**2:50 session 2**  (Theory/Security)
+* Revisiting the Courteous Theatergoers’ Problem with Applications to Pandemic Seating
+* A Literature Survey of Phishing and Its Countermeasures 
+* Suffix Tree: An Advanced Data Structure with Applications to Sequence Analysis
+
+(10 min. break)
+
+**4:00 session 3**  (Machine Learning)
+* Utilizing Deep Learning for Mapping Dozer Lines from Aerial Imagery
+* Reducing Redundancy for Binary Non-negative Bases with a Light-weight Multi-level Model
+* BerryBuddy: A Neural Network Based Berry Image Recognition Application
+
+5:00 closing remarks and survey
+
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
 
