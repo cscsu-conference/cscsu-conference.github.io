@@ -8,8 +8,11 @@ CSCSU is an annual conference dedicated to computer science research by undergra
 
 ## Conference Program ##
 Date: Saturday March 12, 2022
+
 1:00 registration 
+
 1:10 opening remarks
+
 **1:20 session 1**  (Systems)
 
 * A Brain-Computer Interface for Musical Accompaniment
