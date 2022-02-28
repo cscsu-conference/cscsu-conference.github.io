@@ -7,13 +7,13 @@
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
 ## Conference Program ##
-Date: Saturday March 12, 2022
+### Date: Saturday March 12, 2022
 
 **1:00 Registration** 
 
 **1:10 Opening Remarks**
 
-**1:20 Session 1**  (Systems)
+**1:20 Session 1 (Systems)**
 
 * *A Brain-Computer Interface for Musical Accompaniment*, Brandon Hernandez and Oscar Morales-Ponce. 
 * *Exploring Parallel Anytime Designs for Image Retrieval using Oriented FAST Rotated BRIEF (ORB)*, Daeyoung Hwang and John Korah.
@@ -22,14 +22,14 @@ Date: Saturday March 12, 2022
 
 **(10 min. break)**
 
-**2:50 Session 2**  (Theory/Security)
+**2:50 Session 2 (Theory/Security)**
 * *Revisiting the Courteous Theatergoers’ Problem with Applications to Pandemic Seating*, Anurag Kuppala, Vedant Mehta and Theresa Migler.
 * *A Literature Survey of Phishing and Its Countermeasures*, Joshua Vega, Daniel Shevchyk and Yuan Cheng. 
 * *Suffix Tree: An Advanced Data Structure with Applications to Sequence Analysis*, Richmond Jesus Laureta and Sahar Hooshmand.
 
 **(10 min. break)**
 
-**4:00 Session 3**  (Machine Learning)
+**4:00 Session 3 (Machine Learning)**
 * *Utilizing Deep Learning for Mapping Dozer Lines from Aerial Imagery*, Jonathan Calderon Chavez, Matthew Clark and Gurman Gill.
 * *Reducing Redundancy for Binary Non-negative Bases with a Light-weight Multi-level Model*, Giovanni Lopez and Qingquan Sun.
 * *BerryBuddy: A Neural Network Based Berry Image Recognition Application*, David Alvarado Amaya, Jaspreet Nijjar, Jeffin Abraham, Sunshine Moua, Walter Jordan and Ayat Hatem.
