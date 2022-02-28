@@ -13,26 +13,26 @@ Date: Saturday March 12, 2022
 
 1:10 opening remarks
 
-**1:20 session 1**  (Systems)
+**1:20 Session 1**  (Systems)
 
-* A Brain-Computer Interface for Musical Accompaniment
-* Exploring Parallel Anytime Designs for Image Retrieval using Oriented FAST Rotated BRIEF (ORB)
-* Tamentai An abstract strategic board game in fully immersive virtual reality
-* Evaluation of a Tree-based menu virtual keyboard in fully immersive virtual reality
-
-(10 min. break)
-
-**2:50 session 2**  (Theory/Security)
-* Revisiting the Courteous Theatergoers’ Problem with Applications to Pandemic Seating
-* A Literature Survey of Phishing and Its Countermeasures 
-* Suffix Tree: An Advanced Data Structure with Applications to Sequence Analysis
+* *A Brain-Computer Interface for Musical Accompaniment*, Brandon Hernandez and Oscar Morales-Ponce. 
+* *Exploring Parallel Anytime Designs for Image Retrieval using Oriented FAST Rotated BRIEF (ORB)*, Daeyoung Hwang and John Korah.
+* *Tamentai An Abstract Strategic Board Game in Fully Immersive Virtual Reality*, Joseph Bocanegra and Hubert Cecotti.
+* *Evaluation of a Tree-based Menu Virtual Keyboard in Fully immersive Virtual Reality*, Narendra Mannan, Nathaniel Bean, Eric Smrkovsky, Jorge Ochoa and Hubert Cecotti.
 
 (10 min. break)
 
-**4:00 session 3**  (Machine Learning)
-* Utilizing Deep Learning for Mapping Dozer Lines from Aerial Imagery
-* Reducing Redundancy for Binary Non-negative Bases with a Light-weight Multi-level Model
-* BerryBuddy: A Neural Network Based Berry Image Recognition Application
+**2:50 Session 2**  (Theory/Security)
+* *Revisiting the Courteous Theatergoers’ Problem with Applications to Pandemic Seating*, Anurag Kuppala, Vedant Mehta and Theresa Migler.
+* *A Literature Survey of Phishing and Its Countermeasures*, Joshua Vega, Daniel Shevchyk and Yuan Cheng. 
+* *Suffix Tree: An Advanced Data Structure with Applications to Sequence Analysis*, Richmond Jesus Laureta and Sahar Hooshmand.
+
+(10 min. break)
+
+**4:00 Session 3**  (Machine Learning)
+* *Utilizing Deep Learning for Mapping Dozer Lines from Aerial Imagery*, Jonathan Calderon Chavez, Matthew Clark and Gurman Gill.
+* *Reducing Redundancy for Binary Non-negative Bases with a Light-weight Multi-level Model*, Giovanni Lopez and Qingquan Sun.
+* *BerryBuddy: A Neural Network Based Berry Image Recognition Application*, David Alvarado Amaya, Jaspreet Nijjar, Jeffin Abraham, Sunshine Moua, Walter Jordan and Ayat Hatem.
 
 5:00 closing remarks and survey
 
