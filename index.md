@@ -6,6 +6,11 @@
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
+## Conference Registration ##
+To attend CSCSU 2021, you must register beforehand by Friday, March 5 at the following link: [https://csun.zoom.us/meeting/register/tZYocOCtrz4iEtwa0S1V4YKQO1YNeLad3Psg](https://csun.zoom.us/meeting/register/tZYocOCtrz4iEtwa0S1V4YKQO1YNeLad3Psg)
+
+We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committe via email. 
+
 ## Conference Program ##
 ### Date: Saturday March 12, 2022
 
