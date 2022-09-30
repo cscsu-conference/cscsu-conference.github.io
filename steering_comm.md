@@ -17,7 +17,7 @@
 <img align="left" src="kd.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Kyle Dewey
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Northridge
 
