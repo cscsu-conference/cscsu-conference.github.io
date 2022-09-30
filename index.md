@@ -1,45 +1,11 @@
-# Second Annual Computer Science Conference for CSU Undergraduates
-# ~~March 5, 2022~~ 
-# March 12, 2022
-
-**UPDATE: The conference will be held virtually on March 12, 2022. See below for revised conference dates.**
+# Third Annual Computer Science Conference for CSU Undergraduates
+# March 4, 2023
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
-## Conference Registration ##
-To attend CSCSU 2022, you must register beforehand by Friday, March 11 at the following link: [https://csun.zoom.us/meeting/register/tZYocOCtrz4iEtwa0S1V4YKQO1YNeLad3Psg](https://csun.zoom.us/meeting/register/tZYocOCtrz4iEtwa0S1V4YKQO1YNeLad3Psg)
+CSCSU 2023 will be held in two locations: California State University, Monterey Bay and California State University Northridge on **March 4th, 2023**, submission deadline is **January 17th**.
 
-We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committe via email. 
-
-## Conference Program ##
-### Date: Saturday March 12, 2022
-
-**1:00 Registration** 
-
-**1:10 Opening Remarks**
-
-**1:20 Session 1 (Systems)**
-
-* *A Brain-Computer Interface for Musical Accompaniment*, Brandon Hernandez and Oscar Morales-Ponce. 
-* *Exploring Parallel Anytime Designs for Image Retrieval using Oriented FAST Rotated BRIEF (ORB)*, Daeyoung Hwang and John Korah.
-* *Tamentai An Abstract Strategic Board Game in Fully Immersive Virtual Reality*, Joseph Bocanegra and Hubert Cecotti.
-* *Evaluation of a Tree-based Menu Virtual Keyboard in Fully immersive Virtual Reality*, Narendra Mannan, Nathaniel Bean, Eric Smrkovsky, Jorge Ochoa and Hubert Cecotti.
-
-**(10 min. break)**
-
-**2:50 Session 2 (Theory/Security)**
-* *Revisiting the Courteous Theatergoers’ Problem with Applications to Pandemic Seating*, Anurag Kuppala, Vedant Mehta and Theresa Migler.
-* *A Literature Survey of Phishing and Its Countermeasures*, Joshua Vega, Daniel Shevchyk and Yuan Cheng. 
-* *Suffix Tree: An Advanced Data Structure with Applications to Sequence Analysis*, Richmond Jesus Laureta and Sahar Hooshmand.
-
-**(10 min. break)**
-
-**4:00 Session 3 (Machine Learning)**
-* *Utilizing Deep Learning for Mapping Dozer Lines from Aerial Imagery*, Jonathan Calderon Chavez, Matthew Clark and Gurman Gill.
-* *Reducing Redundancy for Binary Non-negative Bases with a Light-weight Multi-level Model*, Giovanni Lopez and Qingquan Sun.
-* *BerryBuddy: A Neural Network Based Berry Image Recognition Application*, David Alvarado Amaya, Jaspreet Nijjar, Jeffin Abraham, Sunshine Moua, Walter Jordan and Ayat Hatem.
-
-**5:00 Closing Remarks and Survey**
+<img src="csumb.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="csun.png" width="200"/>
 
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
@@ -61,23 +27,24 @@ For an accepted paper to be included in the proceedings, one of the student auth
 
 ## Important Dates ##
 
-* Submission Deadline: ~~January 17, 2022~~ &nbsp; **January 24, 2022**
-* Notification Date: ~~February 13, 2022~~ &nbsp; **February 20, 2022**
-* Camera-ready paper: ~~February 26, 2022~~ &nbsp; **March 5, 2022**
-* Conference Dates: ~~March 5, 2022~~ &nbsp; **March 12, 2022**
+* Submission Deadline: January 17, 2023
+* Notification Date: February 13, 2023
+* Camera-ready paper: March 1, 2023
+* Conference Dates: March 4, 2023
 
 ## Submission Guidlines
 Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found at the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
-Conference submission [Link](https://easychair.org/conferences/?conf=cscsu2022).
-
 ## Organization
 
-* [Organizing Committee](./organizing_comm.html)
-* [Program Committee](./program_comm.html)
 * [Steering Committee](./steering_comm.html)
+* [Organizing Comittee](./organizing_comm.html)
 
 ## Prior Conferences
-
+### CSCSU 2021
 * [CSCSU 2021 Website](./index21.html)
 * [CSCSU 2021 Proceedings](https://scholarworks.calstate.edu/collections/zp38wj490?locale=en)
+
+### CSCSU 2022
+* [CSCSU 2022 Website](./index22.html)
+* [CSCSU 2022 Proceedings](https://scholarworks.calstate.edu/collections/4q77fx96x?locale=en)
