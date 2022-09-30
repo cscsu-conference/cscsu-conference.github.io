@@ -35,6 +35,7 @@ For an accepted paper to be included in the proceedings, one of the student auth
 ## Submission Guidlines
 Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found at the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
+Submission Link: TBD
 ## Organization
 
 * [Steering Committee](./steering_comm.html)
