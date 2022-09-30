@@ -6,5 +6,6 @@ plugins:
 title: [CSCSU]
 description: [A Computer Science Conference for CSU Undergraduates.]
 logo: logo_.png
-
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
