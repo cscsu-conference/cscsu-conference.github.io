@@ -1,11 +1,46 @@
 # Third Annual Computer Science Conference for CSU Undergraduates
 # March 4, 2023
 
+**UPDATE: The conference will be held virtually on March 4, 2023. See below for revised conference information.**
+
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
-CSCSU 2023 will be held in two locations: California State University, Monterey Bay and California State University Northridge on **March 4th, 2023**, submission deadline is **January 17th**.
+Attendance is free.
 
-<img src="csumb.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="csun.png" width="200"/>
+## Conference Registration ##
+To attend CSCSU 2023, you must register beforehand by Friday, March 3 at the following link: [http://tiny.cc/ghp4vz](http://tiny.cc/ghp4vz)
+
+We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committe via email.
+
+## Conference Program ##
+### Date: Saturday March 4, 2023
+
+**1:00 Registration** 
+
+**1:10 Opening Remarks**
+
+**1:20 Session 1 (Algorithms)**
+
+* *Prize-Collecting Traveling Salesman Problem: a Reinforcement Learning Approach*, Justin Ruiz, Christopher Gonzales, and Yutian Chen, Bin Tang. 
+* *A Literature Review on Compressed Self-Indexes*, Mariano Miranda Herrera, Agustin Alejandre, and Sahar Hooshmand.
+* *Comparing Strategies of Random Sample Consensus Algorithms for Small Unmanned Aerial Vehicles Using Structure From Motion*, Yeana L Bond, Esmeralda Osornio, Spencer Ledwell, and Alberto C Cruz.
+* *Nash Equilibrium of Data Preservation in Base Station-less Sensor Networks*, Giovanni Rivera, Yutian Chen, and Bin Tang.
+**(10 min. break)**
+
+**2:50 Session 2 (Theory/Security)**
+* *A Comparative Analysis of Source Identification Algorithms*, Pablo A Curiel and Richard C Tillquist.
+* *An Agent-Based Approach for Leveraging Compartmental Epidemiology Models for Analysing Disease Spread*, Aaron Do and John Korah. 
+* *Bridging Web Authentication to OpenVPN*, Karthik M Manishankar, Patricia Z Saito, and Benjamin Reed.
+
+**(10 min. break)**
+
+**4:00 Session 3 (Data Science)**
+* *Disparity in Park Usage During the COVID-19 Pandemic*, Galen Borgman, Harumi Hokari, Noah Otsuka, and Theresa Migler.
+* *A Tutorial on Self-Organizing Maps*, Siddhi Ghorpade and Glenn Bruns.
+* *Comparative Analysis of Social Media Networks*, Brian Meginness, Lizbeth Solis, and Ayat Hatem.
+* *Detection of Grapes in Images with an Active Learning Approach*, Ren Wong, Harsal Patel, and Hubert Cecotti.
+
+**5:20 Closing Remarks and Survey**
 
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
