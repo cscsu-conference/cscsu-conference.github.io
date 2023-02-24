@@ -21,7 +21,7 @@ We ask that you register with a CSU-affiliated email address.  If you wish to re
 
 **1:20 Session 1 (Algorithms)**
 
-* *Prize-Collecting Traveling Salesman Problem: a Reinforcement Learning Approach*, Justin Ruiz, Christopher Gonzales, and Yutian Chen, Bin Tang. 
+* *Prize-Collecting Traveling Salesman Problem: a Reinforcement Learning Approach*, Justin Ruiz, Christopher Gonzales, Yutian Chen, and Bin Tang. 
 * *A Literature Review on Compressed Self-Indexes*, Mariano Miranda Herrera, Agustin Alejandre, and Sahar Hooshmand.
 * *Comparing Strategies of Random Sample Consensus Algorithms for Small Unmanned Aerial Vehicles Using Structure From Motion*, Yeana L Bond, Esmeralda Osornio, Spencer Ledwell, and Alberto C Cruz.
 * *Nash Equilibrium of Data Preservation in Base Station-less Sensor Networks*, Giovanni Rivera, Yutian Chen, and Bin Tang.
