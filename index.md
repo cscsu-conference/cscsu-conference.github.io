@@ -25,6 +25,7 @@ We ask that you register with a CSU-affiliated email address.  If you wish to re
 * *A Literature Review on Compressed Self-Indexes*, Mariano Miranda Herrera, Agustin Alejandre, and Sahar Hooshmand.
 * *Comparing Strategies of Random Sample Consensus Algorithms for Small Unmanned Aerial Vehicles Using Structure From Motion*, Yeana L Bond, Esmeralda Osornio, Spencer Ledwell, and Alberto C Cruz.
 * *Nash Equilibrium of Data Preservation in Base Station-less Sensor Networks*, Giovanni Rivera, Yutian Chen, and Bin Tang.
+
 **(10 min. break)**
 
 **2:50 Session 2 (Theory/Security)**
