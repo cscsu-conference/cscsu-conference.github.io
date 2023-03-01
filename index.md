@@ -38,10 +38,9 @@ We ask that you register with a CSU-affiliated email address.  If you wish to re
 **4:00 Session 3 (Data Science)**
 * *Disparity in Park Usage During the COVID-19 Pandemic*, Galen Borgman, Harumi Hokari, Noah Otsuka, and Theresa Migler.
 * *A Tutorial on Self-Organizing Maps*, Siddhi Ghorpade and Glenn Bruns.
-* *Comparative Analysis of Social Media Networks*, Brian Meginness, Lizbeth Solis, and Ayat Hatem.
 * *Detection of Grapes in Images with an Active Learning Approach*, Ren Wong, Harsal Patel, and Hubert Cecotti.
 
-**5:20 Closing Remarks and Survey**
+**5:00 Closing Remarks and Survey**
 
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
