@@ -1,7 +1,7 @@
 # Third Annual Computer Science Conference for CSU Undergraduates
 # March 4, 2023
 
-**UPDATE: The CSCSU 2023 Proceeding have been published. 
+**UPDATE: The CSCSU 2023 Proceeding have been published.** 
 
 [CSCSU 2023 Proceedings](https://scholarworks.calstate.edu/collections/w0892j378)
 
