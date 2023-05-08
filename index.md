@@ -2,6 +2,7 @@
 # March 4, 2023
 
 **UPDATE: The CSCSU 2023 Proceeding have been published. 
+
 [CSCSU 2023 Proceedings](https://scholarworks.calstate.edu/collections/w0892j378)
 
 **UPDATE: The conference will be held virtually on March 4, 2023. See below for revised conference information.**
