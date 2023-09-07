@@ -44,19 +44,6 @@
 <br>
 <br>
 
-<img align="left" src="anand.jpg" width="200"/>
-# &nbsp;&nbsp;&nbsp;Anand Panangadan
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Fullerton
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [apanangadan@fullerton.edu](apanangadan@fullerton.edu)
-
-<br>
-
 <img align="left" src="ben_reed.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Ben Reed
 
@@ -72,3 +59,16 @@
 <br>
 <br>
 <br>
+<img align="left" src="anand.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Anand Panangadan
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Fullerton
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [apanangadan@fullerton.edu](apanangadan@fullerton.edu)
+
+<br>
+
