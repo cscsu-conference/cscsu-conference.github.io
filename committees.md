@@ -30,7 +30,7 @@
 <br>
 
 <img align="left" src="jason.jpg" width="200"/>
-# &nbsp;&nbsp;&nbsp;Jason Isaacs
+# &nbsp;&nbsp;&nbsp;Jason T. Isaacs
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organizing Committee
 
