@@ -21,18 +21,19 @@ The paper type must be identified when a paper is submitted. Each paper will be 
 
 Papers must be written under the guidance of a CSU faculty co-author. The first author of every submitted paper must be a CSU undergraduate. All authors must be either CSU faculty advisors (there must be at least one) or CSU undergraduates at the time of submission.
 
-No faculty member can appear as co-author on more than 3 submissions.
+No faculty member can appear as a co-author on more than 3 submissions.
 
 For an accepted paper to be included in the proceedings, one of the student authors must commit to presenting their work at the conference. Submitted papers must not have been published in other conferences or journals.
 
 ## Important Dates ##
 
+* Optional Zoom Q&A: November 3rd, 2023 at 1 pm
 * Submission Deadline: February 18, 2024
 * Notification Date: March 23, 2024
 * Conference Dates: April 13, 2024
 
-## Submission Guidlines
-Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found at the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
+## Submission Guidelines
+Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found on the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
 [Submission Link](https://cmt3.research.microsoft.com/CSCSU2024/Submission/Index)
 
