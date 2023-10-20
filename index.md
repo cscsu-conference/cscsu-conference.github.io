@@ -1,9 +1,9 @@
 # Fourth Annual Computer Science Conference for CSU Undergraduates
 # April 13, 2024
 
-CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
+CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
-CSCSU 2024 will be held in two locations: California State University, Monterey Bay and California State University Northridge on **April 13th, 2024**, submission deadline is **February 18th**.
+CSCSU 2024 will be held in two locations: California State University, Monterey Bay and California State University Northridge on **April 13th, 2024**, the submission deadline is **February 18th**.
 
 <img src="csumb.png" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="csun.png" width="200"/>
 
