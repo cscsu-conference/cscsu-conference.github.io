@@ -41,8 +41,10 @@ Submissions must be no more than 5 pages, including all figures, tables, and ref
 CSCSU extends its appreciation to these organizations for their support of the CSCSU 2024 Annual Conference and expresses gratitude for their generous sponsorship:
 ### Google
 <img src="google.png" width="200"/>
+
 ### CSUMB Computer Science Department
 <img src="csumb.png" width="200"/>
+
 ### CSUN Office of Undergraduate Research 
 <img src="csun.png" width="200"/>
 
