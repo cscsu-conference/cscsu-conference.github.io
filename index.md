@@ -31,7 +31,7 @@ For an accepted paper to be included in the proceedings, one of the student auth
 
 * [Optional Zoom Q&A:](https://sjsu.zoom.us/j/83196063927?pwd=ck1CRk5vY3FqQXRucjVGN29IV3pOQT09) November 3rd, 2023 at 1 pm
 * Submission Deadline: ~~February 18, 2024~~ &nbsp; **February 25, 2024**
-* Notification Date: March 23, 2024
+* Notification Date: ~~March 23, 2024~~ &nbsp; **March 29, 2024**
 * Conference Dates: April 13, 2024
 
 ## Submission Guidelines
