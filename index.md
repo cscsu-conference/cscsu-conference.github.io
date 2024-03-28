@@ -1,9 +1,7 @@
 # Fourth Annual Computer Science Conference for CSU Undergraduates
 # April 13, 2024
 
-**UPDATE: The conference will be held virtually on April 13, 2024. Attendance is free.**
-
-**UPDATE: The submission deadline has been extended to February 25, 2024.**
+**UPDATE: This year's conference will be held virtually. Attendance is free.**
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
