@@ -7,6 +7,35 @@
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
+## Conference Program ##
+### Date: Saturday April 13, 2024
+
+**1:00 Registration** 
+
+**1:10 Opening Remarks**
+
+**1:20 Session 1 (Applications)**
+
+* *A Machine Learning Powered Mobile Application for Mobility Scooter Driving Behavior Analysis.	Cleo Yau, Chenrui Zhang, and Tingting Chen. 
+* *Utilizing Machine Learning in Predictive Analytics: An Examination of Lassa Fever Outbreaks in Nigeria.	Daniel Quezada and Sampson Akwafuo.
+* *A Tailored Health Application: Monitoring the Etiology of Raynaud’s Disease.	Aidan Bradshaw, Ramaz Tskhadadze, Shangping Ren, and Ben Shen.
+
+**(10 min. break)**
+
+**2:30 Session 2 (Algorithms)**
+* *Optimization Analysis for the Variational Quantum EigenSolver.	Angel Martinez and Jaime Raigoza.
+* *A Literature Review on Sequence Alignment	.	Sahar Hooshmand, Victor Cano, and Jorge Serrano. 
+* *Budget-Constrained Traveling Salesman Problem: a Multi-Agent Reinforcement Learning Approach.	Zari  Magnaye, Jessica  Gonzalez, Aaron Na Jee  Malone, Yutian Chen, and Bin Tang.
+
+**(10 min. break)**
+
+**3:40 Session 3 (Data Science)**
+* *Twitter network analysis shows few focused followers elevate influential leaders.	Bill Andreopoulos, Nhung Luong, Mohit Sonwane, and Fei Pan.
+* *Comparative Analysis of Social Media Networks.	Anthony Joshua Avendano, Brian Meginness, Lizbeth Solis, Ayat Hatem.
+* *Documentation Strategies for Software Projects in Academic Environments.	Olisemedua Onwuatogwu and Shahidul Islam.
+
+**4:40 Closing Remarks**
+
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
 
