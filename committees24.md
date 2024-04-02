@@ -44,7 +44,7 @@
 <br>
 <br>
 
-<img align="left" src="ben_reed.jpg" width="150"/>
+<img align="left" src="ben_reed.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Ben Reed
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Publicity Committee
