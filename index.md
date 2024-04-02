@@ -83,7 +83,8 @@ CSCSU extends its appreciation to these organizations for their support of the C
 <img src="csun.png" width="200"/>
 
 ## Organization
-* [Committee Members](./committees.html)
+* [Organizing Committee Members](./committees24.html)
+* [Program Committee Members](./program_committee24.html)
 
 ## Prior Conferences
 ### CSCSU 2021
