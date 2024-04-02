@@ -1,8 +1,8 @@
 # Program Committee 
-The CSCSU Organizing Committee recognizes the contributions of the Program Committee Chair, Dr. Anand Panangadan, and the Program Committee Members listed below for their invaluable service to this confernce. Providing contructive feedback to undergraduate student authors is critical to the mission of this conference.
+The CSCSU Organizing Committee recognizes the contributions of the Program Committee Chair, Anand Panangadan, and the Program Committee Members listed below for their invaluable service to this confernce. Providing contructive feedback to undergraduate student authors is critical to the mission of this conference.
 
 ## Program Committee Chair: 
-Dr. Anand Panangadan, CSU Fullerton
+Anand Panangadan, CSU Fullerton
 
 ## Program Committee Members:
 
