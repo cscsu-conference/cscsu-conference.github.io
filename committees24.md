@@ -44,7 +44,7 @@
 <br>
 <br>
 
-<img align="left" src="ben_reed.jpg" width="200"/>
+<img align="left" src="Ben_Reed.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Ben Reed
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Publicity Committee
@@ -59,7 +59,7 @@
 <br>
 <br>
 <br>
-<img align="left" src="anand.jpg" width="200"/>
+<img align="left" src="Anand.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Anand Panangadan
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
