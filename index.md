@@ -21,23 +21,23 @@ Attendance is free.
 
 **1:20 Session 1 (Applications)**
 
-* *A Machine Learning Powered Mobile Application for Mobility Scooter Driving Behavior Analysis.*	Cleo Yau, Chenrui Zhang, and Tingting Chen. 
-* *Utilizing Machine Learning in Predictive Analytics: An Examination of Lassa Fever Outbreaks in Nigeria.*	Daniel Quezada and Sampson Akwafuo.
-* *A Tailored Health Application: Monitoring the Etiology of Raynaud’s Disease.*	Aidan Bradshaw, Ramaz Tskhadadze, Shangping Ren, and Ben Shen.
+1:20 *A Machine Learning Powered Mobile Application for Mobility Scooter Driving Behavior Analysis.*	Cleo Yau, Chenrui Zhang, and Tingting Chen. 
+1:40 *Utilizing Machine Learning in Predictive Analytics: An Examination of Lassa Fever Outbreaks in Nigeria.*	Daniel Quezada and Sampson Akwafuo.
+2:00 *A Tailored Health Application: Monitoring the Etiology of Raynaud’s Disease.*	Aidan Bradshaw, Ramaz Tskhadadze, Shangping Ren, and Ben Shen.
 
 **(10 min. break)**
 
 **2:30 Session 2 (Algorithms)**
-* *Optimization Analysis for the Variational Quantum EigenSolver.*	Angel Martinez and Jaime Raigoza.
-* *A Literature Review on Sequence Alignment.*	Sahar Hooshmand, Victor Cano, and Jorge Serrano. 
-* *Budget-Constrained Traveling Salesman Problem: a Multi-Agent Reinforcement Learning Approach.*	Zari  Magnaye, Jessica  Gonzalez, Aaron Na Jee  Malone, Yutian Chen, and Bin Tang.
+2:30 *Optimization Analysis for the Variational Quantum EigenSolver.*	Angel Martinez and Jaime Raigoza.
+2:50 *A Literature Review on Sequence Alignment.*	Sahar Hooshmand, Victor Cano, and Jorge Serrano. 
+3:10 *Budget-Constrained Traveling Salesman Problem: a Multi-Agent Reinforcement Learning Approach.*	Zari  Magnaye, Jessica  Gonzalez, Aaron Na Jee  Malone, Yutian Chen, and Bin Tang.
 
 **(10 min. break)**
 
 **3:40 Session 3 (Data Science)**
-* *Twitter network analysis shows few focused followers elevate influential leaders.*	Bill Andreopoulos, Nhung Luong, Mohit Sonwane, and Fei Pan.
-* *Comparative Analysis of Social Media Networks.*	Anthony Joshua Avendano, Brian Meginness, Lizbeth Solis, Ayat Hatem.
-* *Documentation Strategies for Software Projects in Academic Environments.*	Olisemedua Onwuatogwu and Shahidul Islam.
+3:40 *Twitter network analysis shows few focused followers elevate influential leaders.*	Bill Andreopoulos, Nhung Luong, Mohit Sonwane, and Fei Pan.
+4:00 *Comparative Analysis of Social Media Networks.*	Anthony Joshua Avendano, Brian Meginness, Lizbeth Solis, Ayat Hatem.
+4:20 *Documentation Strategies for Software Projects in Academic Environments.*	Olisemedua Onwuatogwu and Shahidul Islam.
 
 **4:40 Closing Remarks**
 
