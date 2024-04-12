@@ -8,7 +8,7 @@ CSCSU is an annual conference dedicated to computer science research by undergra
 ## Conference Registration ##
 To attend CSCSU 2024, you must register beforehand by Friday, April 12 at the following link: [Registration Link](https://csun.zoom.us/meeting/register/tZwsdOyvrD0oE9xCZqPeJR0lyaRp-YWZ0S6x)
 
-We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committe via email.
+We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committee via email.
 
 Attendance is free.
 
