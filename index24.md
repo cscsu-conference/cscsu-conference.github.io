@@ -1,7 +1,45 @@
-# Fifth Annual Computer Science Conference for CSU Undergraduates
-# April 26, 2025
+# Fourth Annual Computer Science Conference for CSU Undergraduates
+# April 13, 2024
+
+**UPDATE: This year's conference will be held virtually.**
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
+
+## Conference Registration ##
+To attend CSCSU 2024, you must register beforehand by Friday, April 12 at the following link: [Registration Link](https://csun.zoom.us/meeting/register/tZwsdOyvrD0oE9xCZqPeJR0lyaRp-YWZ0S6x)
+
+We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committee via email.
+
+Attendance is free.
+
+## Conference Program ##
+### Date: Saturday April 13, 2024
+
+**1:00 Registration** 
+
+**1:10 Opening Remarks**
+
+**1:20 Session 1 (Applications)**
+
+- 1:20 *A Machine Learning Powered Mobile Application for Mobility Scooter Driving Behavior Analysis.*	Cleo Yau, Chenrui Zhang, and Tingting Chen. 
+- 1:40 *Utilizing Machine Learning in Predictive Analytics: An Examination of Lassa Fever Outbreaks in Nigeria.*	Daniel Quezada and Sampson Akwafuo.
+- 2:00 *A Tailored Health Application: Monitoring the Etiology of Raynaud’s Disease.*	Aidan Bradshaw, Ramaz Tskhadadze, Shangping Ren, and Ben Shen.
+
+**(10 min. break)**
+
+**2:30 Session 2 (Algorithms)**
+- 2:30 *Optimization Analysis for the Variational Quantum EigenSolver.*	Angel Martinez and Jaime Raigoza.
+- 2:50 *A Literature Review on Sequence Alignment.*	Sahar Hooshmand, Victor Cano, and Jorge Serrano. 
+- 3:10 *Budget-Constrained Traveling Salesman Problem: a Multi-Agent Reinforcement Learning Approach.*	Zari  Magnaye, Jessica  Gonzalez, Aaron Na Jee  Malone, Yutian Chen, and Bin Tang.
+
+**(10 min. break)**
+
+**3:40 Session 3 (Data Science)**
+- 3:40 *Twitter network analysis shows few focused followers elevate influential leaders.*	Bill Andreopoulos, Nhung Luong, Mohit Sonwane, and Fei Pan.
+- 4:00 *Comparative Analysis of Social Media Networks.*	Anthony Joshua Avendano, Brian Meginness, Lizbeth Solis, Ayat Hatem.
+- 4:20 *Documentation Strategies for Software Projects in Academic Environments.*	Olisemedua Onwuatogwu and Shahidul Islam.
+
+**4:40 Closing Remarks**
 
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
@@ -23,16 +61,30 @@ For an accepted paper to be included in the proceedings, one of the student auth
 
 ## Important Dates ##
 
-* Submission Deadline: February 23, 2025
-* Conference Dates: April 26, 2025
+* [Optional Zoom Q&A:](https://sjsu.zoom.us/j/83196063927?pwd=ck1CRk5vY3FqQXRucjVGN29IV3pOQT09) November 3rd, 2023 at 1 pm
+* Submission Deadline: ~~February 18, 2024~~ &nbsp; **February 25, 2024**
+* Notification Date: ~~March 23, 2024~~ &nbsp; **March 29, 2024**
+* Conference Dates: April 13, 2024
 
 ## Submission Guidelines
 Submissions must be no more than 5 pages, including all figures, tables, and references. Papers must be submitted as PDF documents through the EasyChair conference system. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found on the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
-**Submission Link Coming Soon**
+[Submission Link](https://cmt3.research.microsoft.com/CSCSU2024/Submission/Index)
+
+## Sponsors
+CSCSU extends its appreciation to these organizations for their support of the CSCSU 2024 Annual Conference and expresses gratitude for their generous sponsorship:
+### Google
+<img src="google.png" width="200"/>
+
+### CSUMB Computer Science Department
+<img src="csumb.png" width="200"/>
+
+### CSUN Office of Undergraduate Research 
+<img src="csun.png" width="200"/>
 
 ## Organization
-* [Organizing Committee Members](./committees25.html)
+* [Organizing Committee Members](./committees24.html)
+* [Program Committee Members](./program_committee24.html)
 
 ## Prior Conferences
 ### CSCSU 2021
@@ -46,7 +98,3 @@ Submissions must be no more than 5 pages, including all figures, tables, and ref
 ### CSCSU 2023
 * [CSCSU 2023 Website](./index23.html)
 * [CSCSU 2023 Proceedings](https://scholarworks.calstate.edu/collections/w0892j378)
-
-### CSCSU 2024
-* [CSCSU 2024 Website](./index24.html)
-* [CSCSU 2024 Proceedings](https://scholarworks.calstate.edu/collections/8c97kz69k)
