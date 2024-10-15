@@ -35,18 +35,18 @@ Submissions must be no more than 5 pages, including all figures, tables, and ref
 * [Organizing Committee Members](./committees25.html)
 
 ## Prior Conferences
-### CSCSU 2021
-* [CSCSU 2021 Website](./index21.html)
-* [CSCSU 2021 Proceedings](https://scholarworks.calstate.edu/collections/zp38wj490?locale=en)
-
-### CSCSU 2022
-* [CSCSU 2022 Website](./index22.html)
-* [CSCSU 2022 Proceedings](https://scholarworks.calstate.edu/collections/4q77fx96x?locale=en)
+### CSCSU 2024
+* [CSCSU 2024 Website](./index24.html)
+* [CSCSU 2024 Proceedings](https://scholarworks.calstate.edu/collections/8c97kz69k)
 
 ### CSCSU 2023
 * [CSCSU 2023 Website](./index23.html)
 * [CSCSU 2023 Proceedings](https://scholarworks.calstate.edu/collections/w0892j378)
 
-### CSCSU 2024
-* [CSCSU 2024 Website](./index24.html)
-* [CSCSU 2024 Proceedings](https://scholarworks.calstate.edu/collections/8c97kz69k)
+### CSCSU 2022
+* [CSCSU 2022 Website](./index22.html)
+* [CSCSU 2022 Proceedings](https://scholarworks.calstate.edu/collections/4q77fx96x?locale=en)
+
+### CSCSU 2021
+* [CSCSU 2021 Website](./index21.html)
+* [CSCSU 2021 Proceedings](https://scholarworks.calstate.edu/collections/zp38wj490?locale=en)
