@@ -13,6 +13,34 @@
 
 <br>
 
+<img align="left" src="tingting.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Tingting Chen
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cal Poly Pomoma
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [tingtingchen@cpp.edu](tingtingchen@cpp.edu)
+
+<br>
+
+<img align="left" src="jason.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Jason T. Isaacs
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Publicity Committee
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Channel Islands
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [jason.isaacs@csuci.edu](jason.isaacs@csuci.edu)
+
+<br>
+<br>
+<br>
+
 <img align="left" src="glenn.png" width="200"/> 
 # &nbsp;&nbsp;&nbsp;Glenn Bruns
 
