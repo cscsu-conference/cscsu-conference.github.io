@@ -29,7 +29,6 @@ For an accepted paper to be included in the proceedings, one of the student auth
 ## Submission Guidelines
 Submissions must be no more than 5 pages, including all figures, tables, and references. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/LatexTemplate.zip) or [Word](https://cscsu-conference.github.io/WordTemplate.docx) templates . More information on the use of the templates can be found on the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
-**Submission Link Coming Soon**
 The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 ## Organization
