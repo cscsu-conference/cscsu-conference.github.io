@@ -15,11 +15,11 @@ Submissions are welcomed in all areas of computer science. To encourage particip
 
 The paper type must be identified when a paper is submitted. Each paper will be reviewed using the criteria associated with its type. More information about the paper types can be found [here](https://cscsu-conference.github.io/Paper%20types%202022.pdf), including example papers and acceptance criteria for each type.
 
-Papers must be written under the guidance of a CSU faculty co-author. The first author of every submitted paper must be a CSU undergraduate. All authors must be either CSU faculty advisors (there must be at least one) or CSU undergraduates at the time of submission.
+Papers must be written under the guidance of a CSU faculty co-author. The first author of every submitted paper must be a CSU undergraduate at the time the work was completed.
 
 No faculty member can appear as a co-author on more than 3 submissions.
 
-For an accepted paper to be included in the proceedings, one of the student authors must commit to presenting their work at the conference. Submitted papers must not have been published in other conferences or journals.
+For an accepted paper to be included in the proceedings, one of the CSU undergraduate student authors must commit to presenting their work at the conference. Submitted papers must not have been published in other conferences or journals.
 
 ## Important Dates ##
 
