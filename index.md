@@ -1,4 +1,7 @@
 # Fifth Annual Computer Science Conference for CSU Undergraduates
+
+# UPDATE: Submission Deadline Extended to March 2, 2025
+
 # Held Virtually on April 26, 2025
 
 CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
