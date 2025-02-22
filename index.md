@@ -23,7 +23,7 @@ For an accepted paper to be included in the proceedings, one of the CSU undergra
 
 ## Important Dates ##
 
-* Submission Deadline: February 23, 2025
+* Submission Deadline: ~~February 23, 2025~~ &nbsp; **March 2, 2025**
 * Conference Dates: April 26, 2025
 
 ## Submission Guidelines
