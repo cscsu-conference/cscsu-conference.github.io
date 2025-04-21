@@ -14,7 +14,7 @@ Attendance is free.
 ## Conference Program ##
 ### Date: Saturday April 26, 2026
 
-**9:00 AM Registration Opens** 
+**9:00 AM Zoom Session Opens** 
 
 **9:10 AM Opening Remarks**
 
