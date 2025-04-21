@@ -28,6 +28,7 @@ Attendance is free.
 **(10 min. break)**
 
 **2:30 Session 2 (Algorithms)**
+
 - 2:30 *Optimization Analysis for the Variational Quantum EigenSolver.*	Angel Martinez and Jaime Raigoza.
 - 2:50 *A Literature Review on Sequence Alignment.*	Sahar Hooshmand, Victor Cano, and Jorge Serrano. 
 - 3:10 *Budget-Constrained Traveling Salesman Problem: a Multi-Agent Reinforcement Learning Approach.*	Zari  Magnaye, Jessica  Gonzalez, Aaron Na Jee  Malone, Yutian Chen, and Bin Tang.
@@ -35,6 +36,7 @@ Attendance is free.
 **(10 min. break)**
 
 **3:40 Session 3 (Data Science)**
+
 - 3:40 *Twitter network analysis shows few focused followers elevate influential leaders.*	Bill Andreopoulos, Nhung Luong, Mohit Sonwane, and Fei Pan.
 - 4:00 *Comparative Analysis of Social Media Networks.*	Anthony Joshua Avendano, Brian Meginness, Lizbeth Solis, Ayat Hatem.
 - 4:20 *Documentation Strategies for Software Projects in Academic Environments.*	Olisemedua Onwuatogwu and Shahidul Islam.
