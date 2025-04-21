@@ -42,6 +42,7 @@ Phishing URL Detection.* Jaishnoor Kaur, Arsh Parmar, Hongmin L (California Stat
 University, East Bay).
 
 **45 minute break**
+
 **12:45 PM - 2:00 PM: Session 3 (Potpourri - Theory, Quantum and Security)**
 
 * 12:45 PM: (Best paper nominee) *Iterator-Based Parser Combinators for Ambiguous Grammars.* Param Desai, Devaansh Mann, Kyle Dewey (California State University, Northridge).
@@ -53,6 +54,7 @@ Meghana Indukuri, Carlos Rojas (San Jose State University).
 * 1:45 PM: *Investigating the Effects of Quantum Error Correction on Grover’s Algorithm with Shor’s 9-qubit Code.* Hannah Tiffany, Jamie Raigoza (California State University, Chico).
 
 **10 minute break**
+
 **2:10 PM - 3:10 PM: Session 4 (AI for Healthcare)**
 
 * 2:10 PM: *Machine Learning Methods for Prostate Cancer Prediction using Magnetic Resonance Imaging and Clinical Data.* Singh Akal Ustat, Thiramdas, Baynes Anna, Bang Tran (California State University, Sacramento).
@@ -61,7 +63,8 @@ Meghana Indukuri, Carlos Rojas (San Jose State University).
 * 2:55 PM: *Leveraging Machine Learning to Uncover Mental Health Disparities Across Urban and Rural Communities Insights from Social Determinants.* Rowena Quinn, Sherrene Bogle (California State Polytechnic University, Humboldt), Marjan Asadinia (California State University, Northridge).
 
 **10 minute break**
-**3:20 PM - 4:20 PM: Session 5(Networks and Systems)**
+
+**3:20 PM - 4:20 PM: Session 5 (Networks and Systems)**
 
 * 3:20 PM: *JPL Interplanetary email.* Adrian Flores, Antonio Ortega, Brian Contreras, Lance Batac, Ryan Torrez, Sophia Liwag, Leigh Torgeson, and Manveen Kaur (California State University, Los Angeles).
 * 3:35 PM: (Best paper nominee) *Energy-Efficient Data Collection in Robotic Sensor Networks.* Christopher Beauchamp, Soham Patil, Bin Tang (California State University, Dominguez Hills).
