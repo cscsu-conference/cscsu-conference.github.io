@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-<br>
+
 
 <img align="left" src="Anand.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Anand Panangadan
@@ -30,7 +30,7 @@
 <br>
 
 <img align="left" src="carter.jpg" width="200"/>
-# &nbsp;&nbsp;&nbsp;Richard (Carter) Tillquist
+# &nbsp;&nbsp;&nbsp;Richard Tillquist
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
 
