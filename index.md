@@ -27,7 +27,7 @@ Authors are required to ensure that all submissions conform to the [IEEE AI Poli
 * Conference Dates: April 25, 2026
 
 ## Submission Guidelines
-Submissions must be no more than 5 pages, including all figures, tables, and references. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/conference-latex-template_10-17-19) or [Word](https://cscsu-conference.github.io/Conference-Templates-Word.zip) templates . More information on the use of the templates can be found on the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
+Submissions must be no more than 5 pages, including all figures, tables, and references. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/conference-latex-template_10-17-19.zip) or [Word](https://cscsu-conference.github.io/Conference-Templates-Word.zip) templates . More information on the use of the templates can be found on the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
 [Submission Link: Coming Soon...]
 
