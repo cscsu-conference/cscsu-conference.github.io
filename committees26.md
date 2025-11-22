@@ -1,9 +1,25 @@
-# CSCSU 2025 Committee Members
+# CSCSU 2026 Committee Members
+
+<img align="left" src="jason.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Jason T. Isaacs
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Organizing Committee
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Channel Islands
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [jason.isaacs@csuci.edu](jason.isaacs@csuci.edu)
+
+<br>
+<br>
+<br>
+<br>
 
 <img align="left" src="Anand.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Anand Panangadan
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Organizing Committee
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Publicity Committee
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
 
@@ -13,31 +29,17 @@
 
 <br>
 
-<img align="left" src="tingting.jpg" width="200"/>
-# &nbsp;&nbsp;&nbsp;Tingting Chen
+<img align="left" src="carter.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Richard (Carter) Tillquist
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Computer Science
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cal Poly Pomoma
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Chico
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [tingtingchen@cpp.edu](tingtingchen@cpp.edu)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [rctillquist@csuchico.edu](rctillquist@csuchico.edu)
 
-<br>
-
-<img align="left" src="jason.jpg" width="200"/>
-# &nbsp;&nbsp;&nbsp;Jason T. Isaacs
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Publicity Committee
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Computer Science
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Channel Islands
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [jason.isaacs@csuci.edu](jason.isaacs@csuci.edu)
-
-<br>
 <br>
 <br>
 
