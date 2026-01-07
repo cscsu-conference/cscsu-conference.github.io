@@ -31,8 +31,6 @@ Authors are required to ensure that all submissions conform to the [IEEE AI Poli
 ## Submission Guidelines
 Submissions must be no more than 5 pages, including all figures, tables, and references. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/conference-latex-template_10-17-19.zip) or [Word](https://cscsu-conference.github.io/Conference-Templates-Word.zip) templates . More information on the use of the templates can be found on the paper submission page for the [Computing in Cardiology conference](http://www.cinc.org/instructions-for-preparing-and-submitting-full-papers/).
 
-[CMT submission link will be coming shortly]
-
 ## Where and How to Submit
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
@@ -40,7 +38,9 @@ Authors will need a CMT account to submit a paper.
  
 [HOWTO on making a CMT account](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
-[HOWTO on submitting a paper through CMT](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html).
+[HOWTO on submitting a paper through CMT](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html)
+
+[CMT Submission Link](https://cmt3.research.microsoft.com/CSCSU2026/Submission/Index)
 
 <!-- The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. -->
 
