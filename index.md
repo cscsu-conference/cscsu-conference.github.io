@@ -35,12 +35,12 @@ Submissions must be no more than 5 pages, including all figures, tables, and ref
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 Authors will need a CMT account to submit a paper.
+
+[**Submit Paper Here**](https://cmt3.research.microsoft.com/CSCSU2026/Submission/Index)
  
 [HOWTO on making a CMT account](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
 [HOWTO on submitting a paper through CMT](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html)
-
-[CMT Submission Link](https://cmt3.research.microsoft.com/CSCSU2026/Submission/Index)
 
 <!-- The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. -->
 
