@@ -40,7 +40,7 @@ Authors will need a CMT account to submit a paper.
 
 **Submission deadline extended to March 1, 2026**
 
-[**Submit Paper Here**](https://cmt3.research.microsoft.com/CSCSU2026/Submission/Index)
+[Submit Paper Here](https://cmt3.research.microsoft.com/CSCSU2026/Submission/Index)
  
 [HOWTO on making a CMT account](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
