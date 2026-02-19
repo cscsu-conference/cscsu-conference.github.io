@@ -25,7 +25,7 @@ For an accepted paper to be included in the proceedings, one of the CSU undergra
 Authors are required to ensure that all submissions conform to the [IEEE AI Policy](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/#ai-generated-content) and associated ethical standards.
 ## Important Dates ##
 
-* Submission Deadline: <del>February 22, 2026</del> March 1, 2026
+* Submission Deadline: ~~February 22, 2026~~ March 1, 2026
 * Author Notication: March 29, 2026
 * Camera Ready Paper Due: April 11, 2026
 * Conference Dates: April 25, 2026
