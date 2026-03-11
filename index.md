@@ -55,7 +55,7 @@ Authors will need a CMT account to submit a paper.
 ## Prior Conferences
 ### CSCSU 2025
 * [CSCSU 2025 Website](./index25.html)
-* [CSCSU 2025 Proceedings: Coming Soon...]
+* [CSCSU 2025 Proceedings](https://scholarworks.calstate.edu/collections/5425kk90z)
 
 ### CSCSU 2024
 * [CSCSU 2024 Website](./index24.html)
