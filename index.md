@@ -23,6 +23,8 @@ The regular presenation sessions will be split into two tracks (Track A and Trac
 
 **9:20 AM - 9:50 AM Keynote Speaker (All Tracks)**
 
+* Yeana Bond - Computer Science and Applications Ph.D. student in Virginia Tech.
+
 **10 minute break**
 
 **10:00 AM - 11:00 PM Session 1 (Track A) - Computer Vision and Representation Learning**
@@ -90,6 +92,9 @@ The regular presenation sessions will be split into two tracks (Track A and Trac
 **10 minute break**
 
 **3:10 PM - 3:30 PM: Best Paper Award Announcement and Closing Remarks (All Tracks)**
+
+* Best Paper Award Presentation - Vaishnavi Sen (Admitted Ph.D. student at UNLV)
+* Closing Remarks - Jason Isaacs (Organizing Committee)
 
 ## Call for Papers ##
 Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
