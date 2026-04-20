@@ -7,7 +7,7 @@ CSCSU is an annual conference dedicated to computer science research by undergra
 ## Conference Registration ##
 To attend CSCSU 2026, you must register beforehand. 
 
-[**Registration Link**](https://csun.zoom.us/meeting/register/oFtal6HrR-Go-8CxyMchhA)
+[Registration Link](https://csun.zoom.us/meeting/register/oFtal6HrR-Go-8CxyMchhA)
 
 We ask that you register with a CSU-affiliated email address.  If you wish to register with a non-affiliated email address, please contact the organizing committee via email.
 
