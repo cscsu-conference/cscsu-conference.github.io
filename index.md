@@ -2,25 +2,28 @@
 
 # Held Virtually on April 24, 2027
 
-CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses. Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers. The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations. A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
+CSCSU is an annual conference dedicated to computer science research by undergraduates at CSU campuses.
+Participating students will learn how a computer science conference works, network with other talented CS students from CSU campuses, and prepare for graduate school and research careers.
+The conference covers all areas of computer science and is structured like a mainstream CS conference, with authors of accepted papers giving oral presentations.
+A peer-review process is used to select papers for presentation and inclusion in conference proceedings that will be made available electronically.
 
 ## Call for Papers ##
-Submissions are welcomed in all areas of computer science. To encourage participation, papers of any of the following types can be submitted:
 
-* Traditional technical papers
-* Extensive experimentation with existing tools and techniques
-* Reimplementation of an existing tool or technique, with new insights and lessons learned
-* Literature surveys, ideally targeted to newcomers to an area
-* Tutorials
-* Instructional pearls
+Traditional technical papers are welcomed from all areas of computer science.
+Submissions should be more than a survey or summary of prior work in an area.
 
-Papers must be written under the guidance of a CSU faculty co-author. The first author of every submitted paper must be a CSU undergraduate at the time the work was completed.
+Papers must be written under the guidance of a CSU faculty co-author.
+The first author of every submitted paper must be a CSU undergraduate at the time the work was completed.
 
 No faculty member can appear as a co-author on more than 3 submissions.
 
-For an accepted paper to be included in the proceedings, one of the CSU undergraduate student authors must commit to presenting their work at the conference. All camera-ready papers must follow the provided template. Submitted papers must not have been published in other conferences or journals.
+For an accepted paper to be included in the proceedings, one of the CSU undergraduate student authors must commit to presenting their work at the conference.
+All camera-ready papers must follow the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates).
+Submitted papers must not have been published in other conferences or journals.
 
 Authors are required to ensure that all submissions conform to the [IEEE AI Policy](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/#ai-generated-content) and associated ethical standards.
+Reviews will be double-blind.
+
 ## Important Dates ##
 
 * Submission Deadline: February 21, 2027
@@ -29,7 +32,15 @@ Authors are required to ensure that all submissions conform to the [IEEE AI Poli
 * Conference Dates: April 24, 2027
 
 ## Submission Guidelines
-Submissions must be no more than 5 pages, including all figures, tables, and references. LaTeX is strongly recommended for paper preparation, but Word can also be used. Please use the [LaTeX](https://cscsu-conference.github.io/conference-latex-template_10-17-19.zip) or [Word](https://cscsu-conference.github.io/Conference-Templates-Word.zip) templates.
+Submissions must be no more than 5 pages, including all figures, tables, and references.
+LaTeX is strongly recommended for paper preparation, but Word can also be used.
+Please use the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates).
+If using LaTeX:
+
+- At the beginning of the paper, use `\documentclass[10pt,conference]{IEEEtran}`
+- Because of double-blind reviewing, use `\author{\IEEEauthorblockN{Anonymous Author(s)}}` for the authors
+- For the bibliography, use `\bibliographystyle{IEEEtran}`
+
 
 ## Where and How to Submit
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
@@ -41,8 +52,6 @@ Authors will need a CMT account to submit a paper.
 [HOWTO on making a CMT account](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
 [HOWTO on submitting a paper through CMT](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html)
-
-<!-- The [Microsoft CMT service](https://cmt3.research.microsoft.com/) was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support. -->
 
 ## Organization
 * [Organizing Committee Members](./committees27.html)
