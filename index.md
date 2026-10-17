@@ -1,4 +1,4 @@
-# Sixth Annual Computer Science Conference for CSU Undergraduates
+# Seventh Annual Computer Science Conference for CSU Undergraduates
 
 # Held Virtually on April 24, 2027
 
