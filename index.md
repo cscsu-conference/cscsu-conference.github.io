@@ -47,7 +47,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 Authors will need a CMT account to submit a paper.
 
-[Submit Paper Here: Link Coming Soon]
+[Submit Paper Here](https://cmt3.research.microsoft.com/CSCSU2027/Submission/Index)
  
 [HOWTO on making a CMT account](https://cmt3.research.microsoft.com/docs/help/general/account-creation.html)
 
