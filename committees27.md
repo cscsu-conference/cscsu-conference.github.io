@@ -1,6 +1,21 @@
 # CSCSU 2027 Committee Members
 
 
+<img align="left" src="xin_zhang.jpg" width="200"/>
+# &nbsp;&nbsp;&nbsp;Xin Zhang
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chair, Program Committee
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assistant Professor, Computer Science
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; San Diego State University
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [xzhang19@sdsu.edu](xzhang19@sdsu.edu)
+
+<br>
+<br>
+<br>
+
 <img align="left" src="carter.jpg" width="200"/>
 # &nbsp;&nbsp;&nbsp;Richard Tillquist
 
@@ -12,6 +27,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [rctillquist@csuchico.edu](rctillquist@csuchico.edu)
 
+<br>
 <br>
 <br>
 
@@ -27,18 +43,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [apanangadan@fullerton.edu](apanangadan@fullerton.edu)
 
 <br>
-
-<img align="left" src="glenn.png" width="200"/> 
-# &nbsp;&nbsp;&nbsp;Glenn Bruns
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organizing Committee
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Monterey Bay
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [gbruns@csumb.edu](gbruns@csumb.edu)
-
 <br>
 <br>
 
@@ -47,7 +51,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Organizing Committee
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Associate Professor, Computer Science
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Professor, Computer Science
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSU Northridge
 
